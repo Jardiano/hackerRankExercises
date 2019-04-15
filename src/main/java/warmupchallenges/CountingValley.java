@@ -17,7 +17,7 @@ package warmupchallenges;
  * <p>
  * Number of valleys = 1, because the sequence DDU, represents one valley.
  */
-public class CountingValleys {
+public class CountingValley {
 
     // Complete the countingValleys function below.
     static int countingValleys(int n, String s) {
